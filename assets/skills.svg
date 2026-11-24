@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs>
+  <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#150d2e"/><stop offset="0.55" stop-color="#101c3d"/><stop offset="1" stop-color="#0a2a33"/></linearGradient>
+  <radialGradient id="o1s"><stop offset="0" stop-color="#FF6AC1" stop-opacity="0.9"/><stop offset="1" stop-color="#FF6AC1" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2s"><stop offset="0" stop-color="#7F5AF0" stop-opacity="0.8"/><stop offset="1" stop-color="#7F5AF0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o3s"><stop offset="0" stop-color="#2CB67D" stop-opacity="0.7"/><stop offset="1" stop-color="#2CB67D" stop-opacity="0"/></radialGradient>
+  <linearGradient id="gls" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.20"/><stop offset="1" stop-color="#fff" stop-opacity="0.04"/></linearGradient>
+  <linearGradient id="sts" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.65"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/><stop offset="1" stop-color="#fff" stop-opacity="0.35"/></linearGradient>
+  <linearGradient id="txs" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#b9a4ff"/></linearGradient>
+  <clipPath id="cls"><rect width="1200" height="250" rx="28"/></clipPath>
+  <filter id="bls" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs><g clip-path="url(#cls)">
+  <rect width="1200" height="250" fill="url(#bgs)"/>
+  <g filter="url(#bls)">
+    <circle cx="144.0" cy="50.0" r="137.5" fill="url(#o1s)"><animate attributeName="cx" values="144.0;240.0;144.0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="1056.0" cy="212.5" r="150.0" fill="url(#o2s)"><animate attributeName="cy" values="212.5;150.0;212.5" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="744.0" cy="25.0" r="100.0" fill="url(#o3s)"><animate attributeName="cx" values="744.0;600.0;744.0" dur="13s" repeatCount="indefinite"/></circle>
+  </g>
+</g><rect x="60" y="30" width="1080" height="190" rx="28" fill="url(#gls)" stroke="url(#sts)" stroke-width="1.5"/>
+<path d="M88 31.5 H1112" stroke="#fff" stroke-opacity="0.55" stroke-width="1.5" stroke-linecap="round"/><text x="100" y="82" font-size="26" font-weight="700" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Tech stack</text><rect x="100" y="105" width="56" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="128.0" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">HTML</text><rect x="166" y="105" width="48" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="190.0" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">CSS</text><rect x="224" y="105" width="102" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="275.0" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">JavaScript</text><rect x="336" y="105" width="102" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="387.0" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">TypeScript</text><rect x="448" y="105" width="64" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="480.0" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">React</text><rect x="522" y="105" width="79" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="561.5" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Next.js</text><rect x="611" y="105" width="117" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="669.5" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Tailwind CSS</text><rect x="738" y="105" width="79" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="777.5" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Node.js</text><rect x="827" y="105" width="79" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="866.5" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Express</text><rect x="916" y="105" width="102" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="967.0" y="124" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">PostgreSQL</text><rect x="100" y="145" width="86" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="143.0" y="164" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Supabase</text><rect x="196" y="145" width="64" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="228.0" y="164" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Figma</text><rect x="270" y="145" width="48" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="294.0" y="164" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Git</text><rect x="328" y="145" width="71" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="363.5" y="164" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">GitHub</text><rect x="409" y="145" width="71" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="444.5" y="164" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Vercel</text><rect x="490" y="145" width="79" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="529.5" y="164" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Netlify</text>
+</svg>

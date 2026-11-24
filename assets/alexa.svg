@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240">
+<defs>
+  <linearGradient id="bgc3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#150d2e"/><stop offset="0.55" stop-color="#101c3d"/><stop offset="1" stop-color="#0a2a33"/></linearGradient>
+  <radialGradient id="o1c3"><stop offset="0" stop-color="#2CB67D" stop-opacity="0.9"/><stop offset="1" stop-color="#2CB67D" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2c3"><stop offset="0" stop-color="#4DA3FF" stop-opacity="0.8"/><stop offset="1" stop-color="#4DA3FF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o3c3"><stop offset="0" stop-color="#7F5AF0" stop-opacity="0.7"/><stop offset="1" stop-color="#7F5AF0" stop-opacity="0"/></radialGradient>
+  <linearGradient id="glc3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.20"/><stop offset="1" stop-color="#fff" stop-opacity="0.04"/></linearGradient>
+  <linearGradient id="stc3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.65"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/><stop offset="1" stop-color="#fff" stop-opacity="0.35"/></linearGradient>
+  <linearGradient id="txc3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#b9a4ff"/></linearGradient>
+  <clipPath id="clc3"><rect width="580" height="240" rx="28"/></clipPath>
+  <filter id="blc3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs><g clip-path="url(#clc3)">
+  <rect width="580" height="240" fill="url(#bgc3)"/>
+  <g filter="url(#blc3)">
+    <circle cx="69.6" cy="48.0" r="132.0" fill="url(#o1c3)"><animate attributeName="cx" values="69.6;116.0;69.6" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="510.4" cy="204.0" r="144.0" fill="url(#o2c3)"><animate attributeName="cy" values="204.0;144.0;204.0" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="359.6" cy="24.0" r="96.0" fill="url(#o3c3)"><animate attributeName="cx" values="359.6;290.0;359.6" dur="13s" repeatCount="indefinite"/></circle>
+  </g>
+</g><rect x="24" y="24" width="532" height="192" rx="24" fill="url(#glc3)" stroke="url(#stc3)" stroke-width="1.5"/>
+<path d="M48 25.5 H532" stroke="#fff" stroke-opacity="0.55" stroke-width="1.5" stroke-linecap="round"/><text x="52" y="76" font-size="26" font-weight="700" fill="url(#txc3)" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">alexa</text><text x="52" y="108" font-size="15" fill="#dfe6ff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Alexa project repository.</text><rect x="52" y="172" width="102" height="28" rx="14" fill="#fff" fill-opacity="0.10" stroke="#fff" stroke-opacity="0.35"/>
+<text x="103.0" y="191" text-anchor="middle" font-size="13" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Repository</text><text x="528" y="76" text-anchor="end" font-size="14" fill="#cfd6ff" fill-opacity="0.8" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">view repo  ↗</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs>
+  <linearGradient id="bga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#150d2e"/><stop offset="0.55" stop-color="#101c3d"/><stop offset="1" stop-color="#0a2a33"/></linearGradient>
+  <radialGradient id="o1a"><stop offset="0" stop-color="#2CB67D" stop-opacity="0.9"/><stop offset="1" stop-color="#2CB67D" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2a"><stop offset="0" stop-color="#7F5AF0" stop-opacity="0.8"/><stop offset="1" stop-color="#7F5AF0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o3a"><stop offset="0" stop-color="#4DA3FF" stop-opacity="0.7"/><stop offset="1" stop-color="#4DA3FF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="gla" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.20"/><stop offset="1" stop-color="#fff" stop-opacity="0.04"/></linearGradient>
+  <linearGradient id="sta" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.65"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/><stop offset="1" stop-color="#fff" stop-opacity="0.35"/></linearGradient>
+  <linearGradient id="txa" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#b9a4ff"/></linearGradient>
+  <clipPath id="cla"><rect width="1200" height="250" rx="28"/></clipPath>
+  <filter id="bla" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs><g clip-path="url(#cla)">
+  <rect width="1200" height="250" fill="url(#bga)"/>
+  <g filter="url(#bla)">
+    <circle cx="344.0" cy="50.0" r="137.5" fill="url(#o1a)"><animate attributeName="cx" values="344.0;440.0;344.0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="1056.0" cy="212.5" r="150.0" fill="url(#o2a)"><animate attributeName="cy" values="212.5;150.0;212.5" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="744.0" cy="25.0" r="100.0" fill="url(#o3a)"><animate attributeName="cx" values="744.0;600.0;744.0" dur="13s" repeatCount="indefinite"/></circle>
+  </g>
+</g><rect x="60" y="30" width="1080" height="190" rx="28" fill="url(#gla)" stroke="url(#sta)" stroke-width="1.5"/>
+<path d="M88 31.5 H1112" stroke="#fff" stroke-opacity="0.55" stroke-width="1.5" stroke-linecap="round"/><text x="100" y="82" font-size="26" font-weight="700" fill="#fff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">About me</text><circle cx="104" cy="115" r="4" fill="#9be7c4"/><text x="122" y="120" font-size="18" fill="#dfe6ff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Frontend developer and UI/UX designer who loves clean, modern, interactive interfaces.</text><circle cx="104" cy="145" r="4" fill="#9be7c4"/><text x="122" y="150" font-size="18" fill="#dfe6ff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Sketch artist, so small design details matter to me.</text><circle cx="104" cy="175" r="4" fill="#9be7c4"/><text x="122" y="180" font-size="18" fill="#dfe6ff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Studying BSCS at Virtual University, based in Faisalabad, Punjab, Pakistan.</text><circle cx="104" cy="205" r="4" fill="#9be7c4"/><text x="122" y="210" font-size="18" fill="#dfe6ff" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Open to internships and collaborations.</text>
+</svg>
